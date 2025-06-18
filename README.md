@@ -8,30 +8,30 @@ Access to clean water is a critical global concern. Accurate prediction of vario
 
 In this project, we:
 
-Collected and preprocessed real-world water quality datasets
-Used supervised machine learning for multi-target regression
-Built a pipeline using MultiOutputRegressor with RandomForestRegressor
-Evaluated the model using appropriate regression metrics
+1.Collected and preprocessed real-world water quality datasets
+2.Used supervised machine learning for multi-target regression
+3.Built a pipeline using MultiOutputRegressor with RandomForestRegressor
+4.Evaluated the model using appropriate regression metrics
 
 # Technologies Used
-Python 3.12
-Pandas, NumPy – Data handling
-Scikit-learn – Machine learning model and evaluation
-Matplotlib, Seaborn – Data visualization
-Jupyter Notebook – Interactive experimentation
+1.Python 3.12
+2.Pandas, NumPy – Data handling
+3.Scikit-learn – Machine learning model and evaluation
+4.Matplotlib, Seaborn – Data visualization
+5.Jupyter Notebook – Interactive experimentation
 
 # Predicted Water Quality Parameters
 The model predicts multiple water quality parameters such as:
-NH4
-BOD5 (BSK5)
-Colloids
-O2, NO3, NO2, SO4, PO4 and
-CL
+1.NH4
+2.BOD5 (BSK5)
+3.Colloids
+4.O2, NO3, NO2, SO4, PO4 and
+5.CL
 # Model Performance
 The model was evaluated using:
-R² Score
-Mean Squared Error (MSE)
-Performance was acceptable across all parameters
+1.R² Score
+2.Mean Squared Error (MSE)
+3.Performance was acceptable across all parameters
 
 # Internship Details
 Internship Type: AICTE Virtual Internship - Edunet Foundation
